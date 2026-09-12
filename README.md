@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Bhayu Adhipramana
 
-<!--
-**bhayuadhipramana-glitch/bhayuadhipramana-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & Data Engineer | DevOps Enthusiast
 
-Here are some ideas to get you started:
+I specialize in architecting scalable cloud infrastructure, designing robust data pipelines, and automating deployment workflows. I focus on bridging the gap between raw data and actionable insights through modern cloud-native solutions and efficient CI/CD practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Core Competencies & Technologies
+ - Cloud Platforms: Google Cloud Platform (GCP), Amazon Web Services (AWS), Microsoft Azure
+ - Data Architecture & Warehousing: Snowflake, Apache Airflow
+ -  DevOps & Infrastructure as Code: Terraform, Docker, Kubernetes, Jenkins, Git
+ - Message Brokering & Event Streaming: Apache Kafka, RabbitMQ
+ - Web Server & Routing: Nginx
+
+Current Focus
+ - Designing serverless data ingestion APIs for high-throughput sensor logs
+ - Automating end-to-end cloud infrastructure provisioning using Terraform
+ - Building resilient data pipelines utilizing Apache Airflow and Snowflake
+
+Contact & Links
+ - LinkedIn: https://www.linkedin.com/in/gedebhayuadhipramana
+ - Email: gedebhayu543@gmail.com
+ - Portfolio: Work in progress (Currently developing PRD, SRS, and System Architecture)
