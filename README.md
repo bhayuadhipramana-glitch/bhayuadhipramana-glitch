@@ -5,11 +5,15 @@ Cloud & Data Engineer | DevOps Enthusiast
 I specialize in architecting scalable cloud infrastructure, designing robust data pipelines, and automating deployment workflows. I focus on bridging the gap between raw data and actionable insights through modern cloud-native solutions and efficient CI/CD practices.
 
 Core Competencies & Technologies
-- Cloud Platforms: Google Cloud Platform (GCP), Amazon Web Services (AWS), Microsoft Azure
-- Data Architecture & Warehousing: Snowflake, Apache Airflow
-- DevOps & Infrastructure as Code: Terraform, Docker, Kubernetes, Jenkins, Git
-- Message Brokering & Event Streaming: Apache Kafka, RabbitMQ
-- Web Server & Routing: Nginx
+
+Cloud Platforms
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+Data Architecture & Warehousing
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+DevOps & Infrastructure as Code
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 Current Focus
 - Designing serverless data ingestion APIs for high-throughput sensor logs
@@ -23,4 +27,5 @@ Contact & Links
 
 GitHub Analytics
 
-![Bhayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhayuadhipramana-glitch&show_icons=true&theme=github_dark&count_private=true&hide_border=true) ![Bhayu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhayuadhipramana-glitch&layout=compact&theme=github_dark&hide_border=true)
+![Bhayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhayuadhipramana-glitch&show_icons=true&theme=github_dark&hide_border=true) 
+![Bhayu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhayuadhipramana-glitch&layout=compact&theme=github_dark&hide_border=true)
