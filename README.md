@@ -1,31 +1,19 @@
-Hi, I'm Bhayu Adhipramana
-
-Cloud & Data Engineer | DevOps Enthusiast
+BHAYU ADHIPRAMANA
+Cloud and Data Engineer
 
 I specialize in architecting scalable cloud infrastructure, designing robust data pipelines, and automating deployment workflows. I focus on bridging the gap between raw data and actionable insights through modern cloud-native solutions and efficient CI/CD practices.
 
-Core Competencies & Technologies
+CURRENT FOCUS AND LEARNING
+Working on: Architecting serverless data ingestion APIs and automating cloud infrastructure (Terraform/Docker)[cite: 1].
+Collaborating on: Enterprise-grade data engineering projects and cloud-native backend systems[cite: 1].
+Learning: Data orchestration with Apache Airflow and scalable CI/CD practices[cite: 1].
+Discuss with me about: Cloud architecture (GCP/AWS), data pipelines, and integrating robust backends with modern frontend UIs[cite: 1].
+Contact: gedebhayu543@gmail.com
 
-Cloud Platforms
-![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+TECH STACK
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-Data Architecture & Warehousing
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-
-DevOps & Infrastructure as Code
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-Current Focus
-- Designing serverless data ingestion APIs for high-throughput sensor logs
-- Automating end-to-end cloud infrastructure provisioning using Terraform
-- Building resilient data pipelines utilizing Apache Airflow and Snowflake
-
-Contact & Links
-- LinkedIn: https://www.linkedin.com/in/gedebhayuadhipramana
-- Email: gedebhayu543@gmail.com
-- Portfolio: Work in progress (Currently developing PRD, SRS, and System Architecture)
-
-
-GitHub Analytics
-(https://github-readme-stats.shion.dev/api?username=bhayuadhipramana-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-(https://streak-stats.demolab.com/?user=bhayuadhipramana-glitch&theme=dark&hide_border=false)
+GITHUB ANALYTICS
+![](https://github-readme-stats.vercel.app/api?username=bhayuadhipramana-glitch&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=bhayuadhipramana-glitch&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhayuadhipramana-glitch&theme=dark&hide_border=true&layout=compact)
