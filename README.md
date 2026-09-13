@@ -25,7 +25,7 @@ Contact & Links
 - Email: gedebhayu543@gmail.com
 - Portfolio: Work in progress (Currently developing PRD, SRS, and System Architecture)
 
-GitHub Analytics
 
-![Bhayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhayuadhipramana-glitch&show_icons=true&theme=github_dark&hide_border=true) 
-![Bhayu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhayuadhipramana-glitch&layout=compact&theme=github_dark&hide_border=true)
+GitHub Analytics
+(https://github-readme-stats.shion.dev/api?username=bhayuadhipramana-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+(https://streak-stats.demolab.com/?user=bhayuadhipramana-glitch&theme=dark&hide_border=false)
